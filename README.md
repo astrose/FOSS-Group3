@@ -34,4 +34,4 @@ In spring of 2019, I began my PhD with Dr. Kusum Naithani, while pursuing a Mast
 ### Team Curriculum Vitaes
 
 #### Ayanna St. Rose
-<embed src="https://astrose.github.io/StRose-CV.pdf" type="application/pdf" />
+<embed src="https://astrose.github.io/FOSS-Group3/blob/main/StRose-CV.pdf" type="application/pdf" />
